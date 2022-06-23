@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW5</string>
+    <string-array name="sports">
+        <item>慢走</item>
+        <item>快走或游泳</item>
+        <item>跑步</item>
+        <item>自行車</item>
+        <item>羽毛球</item>
+        <item>高爾夫</item>
+    </string-array>
+</resources>
